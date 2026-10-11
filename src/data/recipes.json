@@ -1,0 +1,2546 @@
+{
+  "Timber stockpile": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Stick",
+        "quantity": 6
+      }
+    ]
+  },
+  "Sawhorse": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 2
+      },
+      {
+        "item": "Stick",
+        "quantity": 4
+      }
+    ]
+  },
+  "Chopping Spot": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Short Log",
+        "quantity": 2
+      }
+    ]
+  },
+  "Woodworking Workbench I": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 8
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Woodworking Workbench II": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 2
+      }
+    ]
+  },
+  "Circular Saw": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 10
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 10
+      }
+    ]
+  },
+  "Wooden Anvil": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Short Log",
+        "quantity": 1
+      },
+      {
+        "item": "Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "Iron Anvil": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Ingot",
+        "quantity": 2
+      }
+    ]
+  },
+  "Steel Anvil": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Steel Ingot",
+        "quantity": 4
+      }
+    ]
+  },
+  "Firewood shed I": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Stick",
+        "quantity": 10
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 2
+      }
+    ]
+  },
+  "Firewood shed II": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Stick",
+        "quantity": 20
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Furnace I": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 6
+      },
+      {
+        "item": "Brick",
+        "quantity": 12
+      }
+    ]
+  },
+  "Furnace II": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 6
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 2
+      },
+      {
+        "item": "Brick",
+        "quantity": 12
+      }
+    ]
+  },
+  "Bellows": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      },
+      {
+        "item": "Leather Scroll",
+        "quantity": 2
+      }
+    ]
+  },
+  "Casting Table": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 4
+      },
+      {
+        "item": "Steel Ingot",
+        "quantity": 4
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Stonemason's Workbench": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 2
+      }
+    ]
+  },
+  "Potter's Wheel": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "Kiln": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 4
+      },
+      {
+        "item": "Clay",
+        "quantity": 5
+      },
+      {
+        "item": "Water",
+        "quantity": 5
+      }
+    ]
+  },
+  "Sluice Box": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Tool Rack": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      }
+    ]
+  },
+  "Fine Tool Rack": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Iron Detail",
+        "quantity": 6
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      }
+    ]
+  },
+  "Simple Chest": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Chest": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 6
+      }
+    ]
+  },
+  "Large Chest": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Oiled Beam",
+        "quantity": 2
+      },
+      {
+        "item": "Carved Wood",
+        "quantity": 6
+      },
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      }
+    ]
+  },
+  "Hardening Bucket": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 8
+      }
+    ]
+  },
+  "Lantern I": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Oiled Beam",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Glass",
+        "quantity": 2
+      }
+    ]
+  },
+  "Lantern II": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Steel Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Polished Marble",
+        "quantity": 2
+      },
+      {
+        "item": "Glass",
+        "quantity": 8
+      }
+    ]
+  },
+  "Jewelry Table": {
+    "location": "Writing Basement",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 12
+      },
+      {
+        "item": "Glass",
+        "quantity": 3
+      }
+    ]
+  },
+  "Spinning Wheel": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 3
+      },
+      {
+        "item": "Stick",
+        "quantity": 8
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 12
+      }
+    ]
+  },
+  "Weaving Loom": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 8
+      }
+    ]
+  },
+  "Sewing Table": {
+    "location": "Yard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 2
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Zombie Supplier Station": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Conveyor Belt": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 1
+      },
+      {
+        "item": "Fabric",
+        "quantity": 1
+      }
+    ]
+  },
+  "Conveyor Splitter": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 3
+      },
+      {
+        "item": "Fabric",
+        "quantity": 1
+      }
+    ]
+  },
+  "Underground Conveyor": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      },
+      {
+        "item": "Fabric",
+        "quantity": 2
+      }
+    ]
+  },
+  "Supply Station": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 6
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Conveyor Chest I": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      }
+    ]
+  },
+  "Conveyor Chest II": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden Joint",
+        "quantity": 2
+      }
+    ]
+  },
+  "Zombie Carousel": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 6
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 6
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 4
+      }
+    ]
+  },
+  "Assembly bench I": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Reinforced Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Assembly bench II": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Reinforced Beam",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 8
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Assembly bench III": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Wooden Joint",
+        "quantity": 6
+      },
+      {
+        "item": "Steel Screws",
+        "quantity": 12
+      },
+      {
+        "item": "Engineering Details",
+        "quantity": 4
+      }
+    ]
+  },
+  "Assembly bench: Auto-hammer": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 6
+      },
+      {
+        "item": "Iron Ingot",
+        "quantity": 2
+      }
+    ]
+  },
+  "Assembly bench: Spinning wheel": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Assembly bench: Drill press": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Assembly bench: Sewing machine": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Wooden Joint",
+        "quantity": 4
+      },
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      },
+      {
+        "item": "Engineering Details",
+        "quantity": 4
+      }
+    ]
+  },
+  "Assembly bench: Lathe": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Engineering Details",
+        "quantity": 4
+      },
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      },
+      {
+        "item": "Carved Wood",
+        "quantity": 2
+      }
+    ]
+  },
+  "Smithy I": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Reinforced Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      }
+    ]
+  },
+  "Smithy II": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Reinforced Beam",
+        "quantity": 6
+      },
+      {
+        "item": "Steel Screws",
+        "quantity": 12
+      },
+      {
+        "item": "Engineering Details",
+        "quantity": 4
+      }
+    ]
+  },
+  "Smithy: Hammer": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Ingot",
+        "quantity": 1
+      }
+    ]
+  },
+  "Smithy: Bellows": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Leather Scroll",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      }
+    ]
+  },
+  "Smithy: Press": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Engineering Details",
+        "quantity": 2
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Smithy: Grindstone": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Engineering Details",
+        "quantity": 2
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "Bioreactor": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Glass",
+        "quantity": 10
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 8
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Kitchen I": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Reinforced Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Kitchen II": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Reinforced Beam",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 8
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 8
+      }
+    ]
+  },
+  "Kitchen: Millstone": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 2
+      },
+      {
+        "item": "Stick",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Kitchen: Sealing Machine": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Advanced Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Ingot",
+        "quantity": 1
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      }
+    ]
+  },
+  "Zombie Supply Porter": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Factory Lantern": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Oiled Beam",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Glass",
+        "quantity": 2
+      }
+    ]
+  },
+  "Lifting Crane": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Wooden beam",
+        "quantity": 8
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 3
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Garden Storage II": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Wooden beam",
+        "quantity": 12
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Garden Storage III": {
+    "location": "Factory",
+    "ingredients": [
+      {
+        "item": "Wooden Joint",
+        "quantity": 4
+      },
+      {
+        "item": "Engineering Details",
+        "quantity": 4
+      },
+      {
+        "item": "Steel Screws",
+        "quantity": 6
+      }
+    ]
+  },
+  "Supply Pallet": {
+    "location": "Supply Storage",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 12
+      }
+    ]
+  },
+  "Supply Pallet II": {
+    "location": "Supply Storage",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 12
+      }
+    ]
+  },
+  "Porter Station": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Polished Stone",
+        "quantity": 4
+      }
+    ]
+  },
+  "Improve the Church I": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 8
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 6
+      }
+    ]
+  },
+  "Improve the Church II": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 8
+      },
+      {
+        "item": "Carved Stone",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Improve the Church III": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Wooden Joint",
+        "quantity": 4
+      },
+      {
+        "item": "Carved Marble",
+        "quantity": 4
+      },
+      {
+        "item": "Glass",
+        "quantity": 8
+      }
+    ]
+  },
+  "Choir": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Music Notes",
+        "quantity": 4
+      }
+    ]
+  },
+  "Organ": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Special Wood",
+        "quantity": 4
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Interior Bench I": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      }
+    ]
+  },
+  "Interior Bench II": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Interior Bench III": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Wooden beam",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Fabric",
+        "quantity": 4
+      }
+    ]
+  },
+  "Candelabra I": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Bronze Detail",
+        "quantity": 3
+      },
+      {
+        "item": "Simple Candle",
+        "quantity": 1
+      }
+    ]
+  },
+  "Candelabra II": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Iron Detail",
+        "quantity": 3
+      },
+      {
+        "item": "Pretty Candle",
+        "quantity": 2
+      }
+    ]
+  },
+  "Candelabra III": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Advanced Detail",
+        "quantity": 3
+      },
+      {
+        "item": "Golden ingot",
+        "quantity": 1
+      },
+      {
+        "item": "Magnificent Candle",
+        "quantity": 3
+      }
+    ]
+  },
+  "Confession Booth I": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 8
+      }
+    ]
+  },
+  "Confession Booth II": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 8
+      }
+    ]
+  },
+  "Confession Booth III": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Oiled Beam",
+        "quantity": 6
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 8
+      },
+      {
+        "item": "Lacquer",
+        "quantity": 1
+      }
+    ]
+  },
+  "Church Smells I": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 3
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Simple Incense",
+        "quantity": 3
+      }
+    ]
+  },
+  "Church Smells II": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 3
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Fancy Incense",
+        "quantity": 3
+      }
+    ]
+  },
+  "Church Smells III": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Polished Marble",
+        "quantity": 3
+      },
+      {
+        "item": "Golden ingot",
+        "quantity": 1
+      },
+      {
+        "item": "Fancy Incense",
+        "quantity": 3
+      }
+    ]
+  },
+  "Church Shrine I": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 3
+      }
+    ]
+  },
+  "Church Shrine II": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 6
+      },
+      {
+        "item": "Polished Stone",
+        "quantity": 3
+      }
+    ]
+  },
+  "Church Shrine III": {
+    "location": "Church",
+    "ingredients": [
+      {
+        "item": "Paint",
+        "quantity": 1
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 3
+      },
+      {
+        "item": "Polished Marble",
+        "quantity": 3
+      }
+    ]
+  },
+  "Expand graveyard I": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 12
+      }
+    ]
+  },
+  "Expand graveyard II": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 12
+      }
+    ]
+  },
+  "Expand graveyard III": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 24
+      }
+    ]
+  },
+  "Upgrade Fence I": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 12
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 12
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 12
+      }
+    ]
+  },
+  "Upgrade Fence II": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 12
+      },
+      {
+        "item": "Marble Plate",
+        "quantity": 12
+      }
+    ]
+  },
+  "Upgrade Road and Paths": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 24
+      }
+    ]
+  },
+  "Exterior Bench I": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 3
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 5
+      }
+    ]
+  },
+  "Exterior Bench II": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Marble",
+        "quantity": 6
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 5
+      }
+    ]
+  },
+  "Monument I": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 5
+      }
+    ]
+  },
+  "Monument II": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Bronze Ingot",
+        "quantity": 4
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 3
+      },
+      {
+        "item": "Polished Stone",
+        "quantity": 5
+      }
+    ]
+  },
+  "Monument III": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Bronze Ingot",
+        "quantity": 4
+      },
+      {
+        "item": "Golden ingot",
+        "quantity": 2
+      },
+      {
+        "item": "Marble Plate",
+        "quantity": 6
+      }
+    ]
+  },
+  "Flower Bed I": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Peat",
+        "quantity": 3
+      },
+      {
+        "item": "Rhododendron",
+        "quantity": 3
+      }
+    ]
+  },
+  "Flower Bed II": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 4
+      },
+      {
+        "item": "Peat",
+        "quantity": 6
+      },
+      {
+        "item": "Rhododendron",
+        "quantity": 6
+      }
+    ]
+  },
+  "Flower Bed III": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Marble",
+        "quantity": 4
+      },
+      {
+        "item": "Peat",
+        "quantity": 12
+      },
+      {
+        "item": "Night flower",
+        "quantity": 6
+      }
+    ]
+  },
+  "Columbarium I": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Urn with Ashes I",
+        "quantity": 8
+      }
+    ]
+  },
+  "Columbarium II": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Marble",
+        "quantity": 6
+      },
+      {
+        "item": "Golden ingot",
+        "quantity": 2
+      },
+      {
+        "item": "Urn with Ashes II",
+        "quantity": 8
+      }
+    ]
+  },
+  "Crypt": {
+    "location": "Graveyard",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 6
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Writing Desk": {
+    "location": "Writing Basement",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 1
+      }
+    ]
+  },
+  "Paper Press": {
+    "location": "Writing Basement",
+    "ingredients": [
+      {
+        "item": "Wooden beam",
+        "quantity": 3
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Printing Press": {
+    "location": "Writing Basement",
+    "ingredients": [
+      {
+        "item": "Oiled Beam",
+        "quantity": 3
+      },
+      {
+        "item": "Bronze Gear",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Study Table": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 3
+      }
+    ]
+  },
+  "Folio": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Leather Scroll",
+        "quantity": 4
+      },
+      {
+        "item": "Board",
+        "quantity": 3
+      }
+    ]
+  },
+  "Laboratory I": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 3
+      },
+      {
+        "item": "Glass",
+        "quantity": 3
+      }
+    ]
+  },
+  "Laboratory II": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Oiled Beam",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 3
+      },
+      {
+        "item": "Lens",
+        "quantity": 2
+      }
+    ]
+  },
+  "Scroll Cabinet": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 6
+      }
+    ]
+  },
+  "Flask shelf": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 8
+      }
+    ]
+  },
+  "Distillation Cube": {
+    "location": "Alchemy Lab",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Brick",
+        "quantity": 12
+      }
+    ]
+  },
+  "Formulation Bench": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 1
+      }
+    ]
+  },
+  "Autopsy Table I": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 4
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Autopsy Table II": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Polished Stone",
+        "quantity": 8
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Corpse Pallet I": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Corpse Pallet II": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 8
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Resurrection Table I": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Polished Stone",
+        "quantity": 4
+      },
+      {
+        "item": "Glass",
+        "quantity": 3
+      }
+    ]
+  },
+  "Embalming Table I": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Polished Bronze",
+        "quantity": 1
+      },
+      {
+        "item": "Glass",
+        "quantity": 4
+      }
+    ]
+  },
+  "Embalming Table II": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Wooden Joint",
+        "quantity": 2
+      },
+      {
+        "item": "Carved Marble",
+        "quantity": 2
+      },
+      {
+        "item": "Glass",
+        "quantity": 6
+      }
+    ]
+  },
+  "Crematorium I": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Brick",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 6
+      }
+    ]
+  },
+  "Crematorium II": {
+    "location": "Morgue",
+    "ingredients": [
+      {
+        "item": "Brick",
+        "quantity": 12
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 8
+      }
+    ]
+  },
+  "Garden Upgrade I": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Peat",
+        "quantity": 10
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 18
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 9
+      }
+    ]
+  },
+  "Garden Upgrade II": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Farming Fertilizer II",
+        "quantity": 9
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 8
+      },
+      {
+        "item": "Oiled Beam",
+        "quantity": 4
+      }
+    ]
+  },
+  "Garden Well Upgrade": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 6
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 12
+      }
+    ]
+  },
+  "Compost Pile": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 2
+      },
+      {
+        "item": "Stick",
+        "quantity": 12
+      }
+    ]
+  },
+  "Compost Pile Upgrade": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Short Log",
+        "quantity": 12
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Gardener Stand": {
+    "location": "Multiple",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      }
+    ]
+  },
+  "Orchard": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Peat",
+        "quantity": 10
+      }
+    ]
+  },
+  "Apple Tree": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Apple Tree Seedling",
+        "quantity": 1
+      }
+    ]
+  },
+  "Berry Bush": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Bush Seedling",
+        "quantity": 1
+      }
+    ]
+  },
+  "Rhododendron Bush": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Rhododendron Seedling",
+        "quantity": 1
+      }
+    ]
+  },
+  "Blueberry Bush": {
+    "location": "Garden",
+    "ingredients": [
+      {
+        "item": "Blueberry Seedling",
+        "quantity": 1
+      }
+    ]
+  },
+  "Vine Trellis": {
+    "location": "Vineyard",
+    "ingredients": [
+      {
+        "item": "Stick",
+        "quantity": 5
+      },
+      {
+        "item": "Peat",
+        "quantity": 3
+      }
+    ]
+  },
+  "Beehive": {
+    "location": "Vineyard",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 1
+      },
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      }
+    ]
+  },
+  "Vineyard Upgrade": {
+    "location": "Vineyard",
+    "ingredients": [
+      {
+        "item": "Farming Fertilizer III",
+        "quantity": 6
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 6
+      },
+      {
+        "item": "Oiled Beam",
+        "quantity": 4
+      }
+    ]
+  },
+  "Millstone": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Board",
+        "quantity": 2
+      },
+      {
+        "item": "Piece of stone",
+        "quantity": 2
+      }
+    ]
+  },
+  "Home Renovation": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 16
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 8
+      },
+      {
+        "item": "Carved Stone",
+        "quantity": 6
+      }
+    ]
+  },
+  "Upgrade Bed": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Fabric",
+        "quantity": 3
+      }
+    ]
+  },
+  "Fix the Attic": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 16
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 8
+      },
+      {
+        "item": "Carved Stone",
+        "quantity": 6
+      }
+    ]
+  },
+  "Dresser with mirror": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Bronze Detail",
+        "quantity": 2
+      },
+      {
+        "item": "Glass",
+        "quantity": 2
+      }
+    ]
+  },
+  "Kitchen Oven II": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 16
+      },
+      {
+        "item": "Polished Stone",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      }
+    ]
+  },
+  "Kitchen Table II": {
+    "location": "Home",
+    "ingredients": [
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 8
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Barricade I": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Short Log",
+        "quantity": 2
+      },
+      {
+        "item": "Reinforced Plank",
+        "quantity": 2
+      }
+    ]
+  },
+  "Barricade II": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Reinforced Beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Barricade III": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden Joint",
+        "quantity": 2
+      }
+    ]
+  },
+  "Spiked Barricade I": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Short Log",
+        "quantity": 2
+      },
+      {
+        "item": "Reinforced Plank",
+        "quantity": 2
+      }
+    ]
+  },
+  "Spiked Barricade II": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Reinforced Beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Spiked Barricade III": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden Joint",
+        "quantity": 2
+      }
+    ]
+  },
+  "Fortified Barricade I": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Short Log",
+        "quantity": 2
+      },
+      {
+        "item": "Reinforced Plank",
+        "quantity": 2
+      }
+    ]
+  },
+  "Fortified Barricade II": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Reinforced Beam",
+        "quantity": 2
+      }
+    ]
+  },
+  "Fortified Barricade III": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      },
+      {
+        "item": "Steel Detail",
+        "quantity": 4
+      },
+      {
+        "item": "Wooden Joint",
+        "quantity": 2
+      }
+    ]
+  },
+  "Archer Tower I": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Bronze Nails",
+        "quantity": 6
+      },
+      {
+        "item": "Reinforced Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Reinforced Bow",
+        "quantity": 1
+      }
+    ]
+  },
+  "Archer Tower II": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Reinforced Beam",
+        "quantity": 2
+      },
+      {
+        "item": "Reinforced Bow",
+        "quantity": 1
+      }
+    ]
+  },
+  "Archer Tower III": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Steel Screws",
+        "quantity": 8
+      },
+      {
+        "item": "Wooden Joint",
+        "quantity": 2
+      },
+      {
+        "item": "Battle Bow",
+        "quantity": 1
+      }
+    ]
+  },
+  "Expand Military Building Area": {
+    "location": "Barracks",
+    "ingredients": [
+      {
+        "item": "Victory Banner",
+        "quantity": 1
+      }
+    ]
+  },
+  "Zombie Stone Quarry": {
+    "location": "Quarry",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 2
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      }
+    ]
+  },
+  "Zombie Marble Quarry": {
+    "location": "Quarry",
+    "ingredients": [
+      {
+        "item": "Piece of stone",
+        "quantity": 2
+      },
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      }
+    ]
+  },
+  "Lumberjack stand": {
+    "location": "Sawmill",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Brick",
+        "quantity": 6
+      }
+    ]
+  },
+  "Upgrade Sawmill": {
+    "location": "Sawmill",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Brick",
+        "quantity": 4
+      }
+    ]
+  },
+  "Zombie Miner": {
+    "location": "Old Mine",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Brick",
+        "quantity": 4
+      }
+    ]
+  },
+  "Clay Digger Stand": {
+    "location": "Riverside",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Sand Digger Stand": {
+    "location": "Riverside",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 2
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 4
+      }
+    ]
+  },
+  "Vine Press": {
+    "location": "Vineyard Basement",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 6
+      },
+      {
+        "item": "Wooden beam",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 8
+      }
+    ]
+  },
+  "Fermentation Barrel": {
+    "location": "Vineyard Basement",
+    "ingredients": [
+      {
+        "item": "Wooden Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      }
+    ]
+  },
+  "Brewing Stand": {
+    "location": "Vineyard Basement",
+    "ingredients": [
+      {
+        "item": "Brick",
+        "quantity": 12
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 8
+      },
+      {
+        "item": "Advanced Detail",
+        "quantity": 2
+      }
+    ]
+  },
+  "Wine Barrel": {
+    "location": "Vineyard Basement",
+    "ingredients": [
+      {
+        "item": "Oiled Plank",
+        "quantity": 4
+      },
+      {
+        "item": "Iron Nails",
+        "quantity": 8
+      },
+      {
+        "item": "Iron Detail",
+        "quantity": 2
+      }
+    ]
+  }
+}
